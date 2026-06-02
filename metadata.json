@@ -1,0 +1,6 @@
+{
+  "name": "Neon Snake Beats",
+  "description": "An interactive, dark-neon retro arcade console combining real-time step-sequenced sound synthesis with an audio-reactive Snake grid game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
